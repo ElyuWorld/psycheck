@@ -10,8 +10,8 @@ export default function Home() {
         fontFamily: "Arial, sans-serif",
       }}
     >
-      <h1>Hello, World!</h1>
-      <p>Welcome to my first Next.js application!</p>
+      <h1>I LOVE YOU!</h1>
+      <p>OMG THIS IS REAL</p>
     </main>
   );
 }
